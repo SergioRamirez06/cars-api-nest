@@ -8,7 +8,7 @@ API REST para gestionar carros (CRUD).
 ## ⚙️ Instalación
 
 ```bash
-git clone <URL_DEL_REPO>
+git clone https://github.com/SergioRamirez06/cars-api-nest
 cd cars-api
 npm install
 ```
